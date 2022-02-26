@@ -53,12 +53,12 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/syahrizalemano/VCPlayerBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/syahrizalemano/VCPlayerBot1)
  
 ## Deploy to VPS
 
 ```sh
-git clone https://github.com/syahrizalemano/VCPlayerBot
+git clone https://github.com/syahrizalemano/VCPlayerBot1
 cd VCPlayerBot
 pip3 install -r requirements.txt
 # <Create Variables appropriately (.env [optional])>
